@@ -2,3 +2,4 @@
 port = 8501
 headless = true
 enableCORS = false
+maxUploadSize = 10
